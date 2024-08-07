@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hello World' button to be positioned on the app's screen?\", \"option1\": \"At the top of the screen\", \"option2\": \"At the bottom of the screen\"}, {\"question 2\": \"What action should be triggered when the 'Hello World' button is pressed?\", \"option1\": \"Display a 'Hello World' message on the screen\", \"option2\": \"Navigate to a new screen with blockchain information\"}], \"input_token_count\": 261, \"output_token_count\": 108, \"time_taken\": \"0:00:02.855324\"}",
+        "message_id": "guest07082024202719",
+        "timestamp": "07082024202724",
+        "component_file_name": "simple_header_component_1723062419",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Include a real-time blockchain news feed\", \"checked\": true}, {\"feature\": \"Add interactive blockchain network graphs\", \"checked\": false}, {\"feature\": \"Implement a 'Trending Blockchains' carousel\", \"checked\": true}, {\"feature\": \"Feature a 'Blockchain Glossary' for beginners\", \"checked\": false}, {\"feature\": \"Incorporate user account creation for personalized content\", \"checked\": true}, {\"feature\": \"Option to save and share blockchain articles and content\", \"checked\": false}], \"input_token_count\": 215, \"output_token_count\": 109, \"time_taken\": \"0:00:02.638905\"}",
         "message_id": "guest07082024202719",
