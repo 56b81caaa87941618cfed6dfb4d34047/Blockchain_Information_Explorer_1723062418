@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"For the navbar, do you prefer a horizontal layout at the top of the page or a vertical layout along one side?\", \"option1\": \"Horizontal layout at the top\", \"option2\": \"Vertical layout on the side\"}, {\"question 2\": \"Would you like the navlinks to have any specific design features, such as underlining or color change, when they are active or hovered over?\", \"option1\": \"Yes, change color or underline on hover/active\", \"option2\": \"No specific features on hover/active\"}], \"input_token_count\": 639, \"output_token_count\": 124, \"time_taken\": \"0:00:02.868143\"}",
+        "message_id": "guest07082024203149",
+        "timestamp": "07082024203153",
+        "component_file_name": "simple_hero_component_1723062419",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Certainly, I will add a navbar with navlinks for home, about, and contact.",
         "message_id": "guest07082024203149",
