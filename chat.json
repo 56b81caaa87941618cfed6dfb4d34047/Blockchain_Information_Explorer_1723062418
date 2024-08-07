@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you prefer the navbar to be sticky (fixed on top) as the user scrolls down, or should it only appear at the top of each page?\", \"option1\": \"Sticky at the top\", \"option2\": \"Only at the top of the page\"}, {\"question 2\": \"Should the 'About' and 'Contact' navlinks lead to separate pages, or should they link to sections within the same page?\", \"option1\": \"Link to separate pages\", \"option2\": \"Link to sections within the same page\"}], \"input_token_count\": 265, \"output_token_count\": 125, \"time_taken\": \"0:00:09.099987\"}",
+        "message_id": "guest07082024203110",
+        "timestamp": "07082024203121",
+        "component_file_name": "simple_cta_component_1723062419",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Dynamic search bar for quick blockchain information retrieval\", \"checked\": true}, {\"feature\": \"Real-time blockchain news feed on the home page\", \"checked\": true}, {\"feature\": \"Interactive FAQ section on the about page\", \"checked\": false}, {\"feature\": \"Live chat support on the contact page\", \"checked\": true}, {\"feature\": \"Subscription form for blockchain updates via email\", \"checked\": false}, {\"feature\": \"Integration of social media links on the navbar for easy access\", \"checked\": true}], \"input_token_count\": 219, \"output_token_count\": 110, \"time_taken\": \"0:00:03.391357\"}",
         "message_id": "guest07082024203110",
