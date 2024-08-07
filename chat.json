@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where do you want the sidebar located on the screen?\", \"option1\": \"On the left side of the screen\", \"option2\": \"On the right side of the screen\"}, {\"question 2\": \"Should the sidebar be visible at all times or slide in and out?\", \"option1\": \"Visible at all times\", \"option2\": \"Slide in and out on user interaction\"}], \"input_token_count\": 406, \"output_token_count\": 94, \"time_taken\": \"0:00:03.049334\"}",
+        "message_id": "guest07082024203053",
+        "timestamp": "07082024203057",
+        "component_file_name": "simple_footer_component_1723062419",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Great idea! Developing a sidebar with those navlinks.",
         "message_id": "guest07082024203053",
