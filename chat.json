@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add a sidebar with navlinks home, about and contact",
+        "message_id": "guest07082024202815",
+        "timestamp": "07082024202816",
+        "component_file_name": "simple_header_component_1723062419",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you have specific design preferences for the navbar such as color scheme and font style?\", \"option1\": \"Yes, I will provide the design specifics.\", \"option2\": \"No, I'd like you to propose a design based on the app's theme.\"}, {\"question 2\": \"Should the navbar be fixed at the top of the screen as users scroll, or should it only appear at the top of each page?\", \"option1\": \"Yes, make it fixed at the top.\", \"option2\": \"No, it should only appear at the top of each page.\"}], \"input_token_count\": 265, \"output_token_count\": 132, \"time_taken\": \"0:00:03.232629\"}",
         "message_id": "guest07082024202736",
