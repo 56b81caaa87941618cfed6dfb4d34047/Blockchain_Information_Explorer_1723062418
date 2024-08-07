@@ -29,7 +29,12 @@ Vue.component("simple_header_component_1723062419", {
                         <li id="nav-item-3"><a href="#" class="block py-2 pl-3 pr-4 text-gray-700 border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 lg:hover:text-purple-700 lg:p-0 dark:text-gray-400 lg:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white lg:dark:hover:bg-transparent dark:border-gray-700">Blockchain Technology Updates</a></li>
                     </ul>
                 </div>
-            </div>
+
+                    <div class="flex-1">
+                        <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+                            Hello World
+                        </button>
+                    </div>
         </nav>
     </header>`,
     data() {
