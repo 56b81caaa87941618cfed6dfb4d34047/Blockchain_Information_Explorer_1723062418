@@ -13,7 +13,8 @@ Vue.component("simple_cta_component_1723062419", {
                     <a href="#" class="text-purple-700 hover:text-purple-900">Contact</a>
                 </div>
             </div>
-        </nav>
+
+            <button id="hello-world-button" class="text-white bg-blue-500 hover:bg-blue-700 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800">Hello World</button>
         </nav>
         <div id="cta-inner-container" class="max-w-screen-xl px-4 py-8 mx-auto lg:py-16 lg:px-6">
             <div id="cta-content" class="max-w-screen-sm mx-auto text-center">
