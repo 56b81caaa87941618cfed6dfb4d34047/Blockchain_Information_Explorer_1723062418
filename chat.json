@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add a button that says hello world",
+        "message_id": "guest07082024203129",
+        "timestamp": "07082024203130",
+        "component_file_name": "simple_cta_component_1723062419",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you prefer the navbar to be sticky (fixed on top) as the user scrolls down, or should it only appear at the top of each page?\", \"option1\": \"Sticky at the top\", \"option2\": \"Only at the top of the page\"}, {\"question 2\": \"Should the 'About' and 'Contact' navlinks lead to separate pages, or should they link to sections within the same page?\", \"option1\": \"Link to separate pages\", \"option2\": \"Link to sections within the same page\"}], \"input_token_count\": 265, \"output_token_count\": 125, \"time_taken\": \"0:00:09.099987\"}",
         "message_id": "guest07082024203110",
