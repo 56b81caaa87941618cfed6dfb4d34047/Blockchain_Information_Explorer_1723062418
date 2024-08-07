@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Dynamic search bar for quick blockchain information retrieval\", \"checked\": true}, {\"feature\": \"Real-time blockchain news feed on the home page\", \"checked\": true}, {\"feature\": \"Interactive FAQ section on the about page\", \"checked\": false}, {\"feature\": \"Live chat support on the contact page\", \"checked\": true}, {\"feature\": \"Subscription form for blockchain updates via email\", \"checked\": false}, {\"feature\": \"Integration of social media links on the navbar for easy access\", \"checked\": true}], \"input_token_count\": 219, \"output_token_count\": 110, \"time_taken\": \"0:00:03.391357\"}",
+        "message_id": "guest07082024203110",
+        "timestamp": "07082024203116",
+        "component_file_name": "simple_cta_component_1723062419",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Got it, adding a navbar with navlinks home, about and contact.",
         "message_id": "guest07082024203110",
