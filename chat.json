@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"For the navbar, do you have a specific design style or theme in mind that should be followed?\", \"option1\": \"Yes, I'll provide the design guidelines.\", \"option2\": \"No, feel free to use a standard, user-friendly design.\"}, {\"question 2\": \"Should the navbar be fixed at the top of the page as users scroll, or remain static?\", \"option1\": \"Yes, make it fixed at the top.\", \"option2\": \"No, it should remain static and not move with the scroll.\"}], \"input_token_count\": 406, \"output_token_count\": 124, \"time_taken\": \"0:00:06.959589\"}",
+        "message_id": "guest07082024203034",
+        "timestamp": "07082024203043",
+        "component_file_name": "simple_footer_component_1723062419",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Integrate a dynamic search field in the navbar for quick blockchain information lookup\", \"checked\": true}, {\"feature\": \"Add a 'Latest News' section with ticker-style updates on blockchain advancements\", \"checked\": false}, {\"feature\": \"Incorporate a 'Trending Blockchain Projects' section on the home page\", \"checked\": true}, {\"feature\": \"Implement a customizable dashboard for users to track their favorite blockchain projects\", \"checked\": false}, {\"feature\": \"Add user authentication for personalized content and saved searches\", \"checked\": true}], \"input_token_count\": 360, \"output_token_count\": 115, \"time_taken\": \"0:00:06.608016\"}",
         "message_id": "guest07082024203034",
