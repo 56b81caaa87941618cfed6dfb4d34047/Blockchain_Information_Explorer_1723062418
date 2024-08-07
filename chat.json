@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Dynamic breadcrumb navigation to enhance user experience and provide visual cues of their location within the app\", \"checked\": true}, {\"feature\": \"Responsive design adjustments for navbar ensuring optimal viewing and interaction experience across all devices\", \"checked\": true}, {\"feature\": \"Integration of a live search bar within the navbar to enable users to quickly find blockchain topics of interest\", \"checked\": true}, {\"feature\": \"Implementation of a night mode toggle within the navbar for user comfort during different times of the day\", \"checked\": false}, {\"feature\": \"Dropdown menus under navlinks for categorizing information and providing easy access to specific content areas\", \"checked\": false}, {\"feature\": \"Update and highlight the active navlink dynamically to reflect the current page or section the user is viewing\", \"checked\": true}], \"input_token_count\": 593, \"output_token_count\": 165, \"time_taken\": \"0:00:04.666794\"}",
+        "message_id": "guest07082024203149",
+        "timestamp": "07082024203155",
+        "component_file_name": "simple_hero_component_1723062419",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"For the navbar, do you prefer a horizontal layout at the top of the page or a vertical layout along one side?\", \"option1\": \"Horizontal layout at the top\", \"option2\": \"Vertical layout on the side\"}, {\"question 2\": \"Would you like the navlinks to have any specific design features, such as underlining or color change, when they are active or hovered over?\", \"option1\": \"Yes, change color or underline on hover/active\", \"option2\": \"No specific features on hover/active\"}], \"input_token_count\": 639, \"output_token_count\": 124, \"time_taken\": \"0:00:02.868143\"}",
         "message_id": "guest07082024203149",
