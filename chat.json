@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"How do you envision the sidebar's appearance and behavior on different devices (desktop, tablet, mobile)?\", \"option1\": \"Responsive, adjusting layout based on device size\", \"option2\": \"Static, with a constant design regardless of device size\"}, {\"question 2\": \"Would you like the sidebar to be always visible or to appear/hide based on user interaction?\", \"option1\": \"Always visible\", \"option2\": \"Appear/hide based on user interaction\"}], \"input_token_count\": 265, \"output_token_count\": 111, \"time_taken\": \"0:00:04.424773\"}",
+        "message_id": "guest07082024202815",
+        "timestamp": "07082024202820",
+        "component_file_name": "simple_header_component_1723062419",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Great, I'll add a sidebar with the navlinks.",
         "message_id": "guest07082024202815",
