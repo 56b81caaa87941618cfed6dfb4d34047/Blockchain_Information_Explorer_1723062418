@@ -1,5 +1,23 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Expandable sidebar menu for better organization and access to different sections\", \"checked\": true}, {\"feature\": \"Footer with quick links to Home, About, and Contact for easier navigation\", \"checked\": false}, {\"feature\": \"Breadcrumb navigation for enhanced user experience and seamless navigation through different pages\", \"checked\": true}, {\"feature\": \"Search functionality in the sidebar to quickly find specific blockchain information\", \"checked\": true}, {\"feature\": \"Theme toggle button in the sidebar for switching between light and dark modes\", \"checked\": false}, {\"feature\": \"Live chat support option in the sidebar for immediate assistance\", \"checked\": false}], \"input_token_count\": 219, \"output_token_count\": 133, \"time_taken\": \"0:00:05.065292\"}",
+        "message_id": "guest07082024202815",
+        "timestamp": "07082024202821",
+        "component_file_name": "simple_header_component_1723062419",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"How do you envision the sidebar's appearance and behavior on different devices (desktop, tablet, mobile)?\", \"option1\": \"Responsive, adjusting layout based on device size\", \"option2\": \"Static, with a constant design regardless of device size\"}, {\"question 2\": \"Would you like the sidebar to be always visible or to appear/hide based on user interaction?\", \"option1\": \"Always visible\", \"option2\": \"Appear/hide based on user interaction\"}], \"input_token_count\": 265, \"output_token_count\": 111, \"time_taken\": \"0:00:04.424773\"}",
+        "message_id": "guest07082024202815",
+        "timestamp": "07082024202820",
+        "component_file_name": "simple_header_component_1723062419",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Great, I'll add a sidebar with the navlinks.",
         "message_id": "guest07082024202815",
@@ -72,27 +90,9 @@
         "div_action": ""
     },
     {
-        "role": "chat_acknowledge",
-        "content": "Great, building a button that displays \"Hello world\".",
-        "message_id": "guest07082024202719",
-        "timestamp": "07082024202720",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "add a button that says hello world",
-        "message_id": "guest07082024202719",
-        "timestamp": "07082024202720",
-        "component_file_name": "simple_header_component_1723062419",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
         "role": "summary",
-        "content": "Can you describe the project a bit more?",
-        "timestamp": "07082024202816",
+        "content": "In a conversation between the user and the AI assistant, the user requested the addition of a button labeled \"Hello world.\" The AI acknowledged this request and expressed readiness to build the button. To better understand the context, the AI asked the user to describe the project in more detail.",
+        "timestamp": "07082024202821",
         "message_id": "guest07082024202815"
     }
 ]
